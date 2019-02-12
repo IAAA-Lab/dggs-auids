@@ -1,2 +1,2 @@
 # dggs-auids
-Some experiments on producint area identifiers on a DGGS
+Some experiments on producing area identifiers on a DGGS.
